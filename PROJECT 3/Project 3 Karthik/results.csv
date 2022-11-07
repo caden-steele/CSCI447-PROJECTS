@@ -1,0 +1,2 @@
+,dataset,isClassification,hiddenLayers,method,accuracy,precision,recall,RMSE
+0,forestfires,False,2,MLP,0,0,0,0.013873782597683697
